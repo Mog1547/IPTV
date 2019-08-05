@@ -1,10 +1,4 @@
-#EXTM3U
-#EXTINF:-1,A
 http:\\163.172.118.212:80\live.ts?channelId=178&deviceMac=00:1A:79:BE:3F:E6&uid=1846/
-#EXTINF:-1,B
 http:\\163.172.118.212:80\live.ts?channelId=179&deviceMac=00:1A:79:BE:3F:E6&uid=1846/
-#EXTINF:-1,C
 http:\\163.172.118.212:80\live.ts?channelId=180&deviceMac=00:1A:79:BE:3F:E6&uid=1846/
-#EXTINF:-1,D
 http:\\163.172.118.212:80\live.ts?channelId=181&deviceMac=00:1A:79:BE:3F:E6&uid=1846/
-#EXTINF:-1,A
